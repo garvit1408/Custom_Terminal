@@ -48,3 +48,14 @@ This terminal supports **input (`<`)** and **output (`>`)** redirection for comm
    ```bash
    cat > a.txt
    Hi, my name is Garvit
+
+
+## Compilation
+
+To compile the terminal program, use the following command:
+
+```bash
+gcc -o shell shell.c
+```
+## Screenshot
+![alt text](<Screenshot 2025-01-27 at 7.06.10 PM.png>)
